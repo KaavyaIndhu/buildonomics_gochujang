@@ -97,12 +97,3 @@ up for ~1.2s ("wave to enter"), jumping straight into the mirror.
 - The classifier has no "no sign" class — it always outputs a confident
   label for whatever the camera sees, so a mirror with nobody signing in
   front of it can still produce false-positive alerts. Not yet mitigated.
-
-## Branches
-
-Everyone works on their own feature branch off `main`:
-- `feature/neerav-chaining-server`
-- `feature/shelly-ml`
-- `feature/kaavya-frontend`
-- `feature/pulkit-frontend`
-- `feature/mirror-phase1-ui`
